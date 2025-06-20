@@ -21,3 +21,4 @@ ipython==8.15.0
 
 # Debugging
 debugpy==1.8.0
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
